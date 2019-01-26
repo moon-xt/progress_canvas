@@ -1,0 +1,2 @@
+<!--pages/canvas/canvas.wxml-->
+<view class="content" bindtap='_toCanvas'>点击查看环形进度条</view>

@@ -1,0 +1,5 @@
+<view class="container"  wx:for="{{couponList}}"  wx:key="{{item}}">
+<canvas canvas-id="bgCanvas{{item.couponId}}"  class='canvasI'>
+          </canvas>
+            <canvas canvas-id="runCanvas{{item.couponId}}" class='canvasII'></canvas>
+</view>

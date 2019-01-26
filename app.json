@@ -1,0 +1,30 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/index/index",
+    "pages/canvas/canvas"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#6e6d6b",
+    "selectedColor": "#e64340",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "./assets/images/home_icon.png",
+        "selectedIconPath": "./assets/images/home_icon.png"
+      },
+      {
+        "pagePath": "pages/index/index",
+        "text": "发现",
+        "iconPath": "./assets/images/index_icon.png",
+        "selectedIconPath": "./assets/images/index_icon.png"
+      }
+    ]
+  }
+}
