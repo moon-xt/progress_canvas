@@ -10,20 +10,20 @@
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
-    "color": "#6e6d6b",
-    "selectedColor": "#e64340",
+    "color": "#A9A9A9",
+    "selectedColor": "#60D4E1",
     "list": [
       {
         "pagePath": "pages/home/home",
         "text": "首页",
         "iconPath": "./assets/images/home_icon.png",
-        "selectedIconPath": "./assets/images/home_icon.png"
+        "selectedIconPath": "./assets/images/home_icon_active.png"
       },
       {
         "pagePath": "pages/index/index",
         "text": "发现",
         "iconPath": "./assets/images/index_icon.png",
-        "selectedIconPath": "./assets/images/index_icon.png"
+        "selectedIconPath": "./assets/images/index_icon_active.png"
       }
     ]
   }
